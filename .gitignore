@@ -1,6 +1,8 @@
 # Object file
 *.o
 
+node_modules
+
 # Ada Library Information
 *.ali
 # Created by https://www.toptal.com/developers/gitignore/api/macos
